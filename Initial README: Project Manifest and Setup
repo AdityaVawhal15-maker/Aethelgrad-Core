@@ -1,0 +1,25 @@
+ 👑 Aethelgrad-Core: The Paragon Implementation
+
+Aethelgrad-Core is the definitive, high-integrity Rust framework designed for the construction of resilient, verifiable, and hyper-scale applications. It serves as the foundational trust layer for computational mastery, leveraging the unparalleled safety and performance characteristics of the Rust language.
+
+This project embodies a commitment to sub-millisecond determinism and uncompromising resilience, establishing a new gold standard for decentralized and high-performance system architecture.
+
+✨ Design & Philosophy (The Core Thesis)
+
+The architecture of Aethelgrad-Core is a direct response to the limitations of legacy systems, focusing on **computational sovereignty and verifiable execution**.
+
+Rust Safety:** Utilizing Rust's ownership model to achieve memory safety and concurrency without compromise.
+BFT Resilience:** Engineered with adaptive Byzantine Fault Tolerance (A-BFT) principles, ensuring system integrity even under duress.
+Zero-Overhead Abstraction:** Modules are designed to impose near-zero runtime overhead, delivering native speed and efficiency.
+
+ 🚀 Getting Started (Sovereign Setup)
+
+To engage with the Aethelgrad-Core, you must have the Rust toolchain properly installed.
+
+ 1. Prerequisites
+
+Ensure you have `rustup` and `cargo` installed:
+
+```bash
+# Install Rust (if not already done)
+curl --proto '=https' --tlsv1.2 -sSf [https://sh.rustup.rs](https://sh.rustup.rs) | sh
